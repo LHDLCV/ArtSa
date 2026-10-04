@@ -1,2 +1,3 @@
 # ArtSa
-Thangka style tranfer
+Thangka style transfer
+
